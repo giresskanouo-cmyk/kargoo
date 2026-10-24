@@ -1,2 +1,2 @@
-# Cargo.com
+# kargoo.com
 Site de vente en ligne
